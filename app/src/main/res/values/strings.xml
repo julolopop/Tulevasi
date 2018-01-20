@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tulevasi</string>
+    <string name="Logo">logo tulevasi</string>
+    <string name="bd">Base de datos</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="ip" translatable="false">Ip</string>
+    <string name="name">Nombre</string>
+    <string name="value">Cantidad</string>
+    <string name="price">Precio</string>
+    <string name="Zone">Zona</string>
+    <string name="cbd">Configuración de la Base de Datos</string>
+    <string name="czona">Configuración de Zona</string>
+    <string name="addcat">add Catalogo</string>
+    <string name="addproc">add Producto</string>
+    <string name="Price">Precio</string>
+    <string name="cat">Categoria</string>
+    <string name="priceUnd">Precio Und</string>
+    <string name="about">Sobre</string>
+    <string name="yo" translatable="false">Juan Manuel Diaz Ortiz</string>
+    <string name="guapo">Un programa muy guapoo...</string>
+    <string name="mobile" translatable="false">Mobile Developer</string>
+    <string name="jl" translatable="false">julolopop</string>
+
+    <string name="ezona">Eligue la zona</string>
+    <string name="pas">Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="cuenta">Guardar cuenta</string>
+    <string name="basededatos">IP Base de datos</string>
+    <string name="agregar">Agregar</string>
+    <string name="zone">Zona</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precioTotal">Precio Total</string>
+    <string name="meliminar">Desea eliminar el producto de la mesa</string>
+    <string name="teliminar">Eliminar</string>
+</resources>

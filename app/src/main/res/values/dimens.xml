@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lly_activity_login">32dp</dimen>
+    <dimen name="txvUserPassword_margin">24dp</dimen>
+    <dimen name="btnGoogleSignIn_margin">64dp</dimen>
+    <dimen name="btnFacebookSignIn_margin">8dp</dimen>
+    <dimen name="imgDashboardWidth">120dp</dimen>
+    <dimen name="imgDashboardHeight">120dp</dimen>
+    <dimen name="letter_icon_size">48dp</dimen>
+    <dimen name="list_top_padding">8dp</dimen>
+    <dimen name="text_secundary">8sp</dimen>
+    <dimen name="text_primary">16sp</dimen>
+
+</resources>

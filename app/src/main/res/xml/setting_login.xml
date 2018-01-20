@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Preferencias de inicio">
+
+        <EditTextPreference
+            android:defaultValue="127.0.0.1"
+            android:key="ip"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/basededatos" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="usuario"
+            android:title="@string/cuenta" />
+        <EditTextPreference
+            android:defaultValue="Default value"
+            android:key="usuario"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/user" />
+        <EditTextPreference
+            android:defaultValue="Default value"
+            android:key="contrasena"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pas" />
+    </PreferenceCategory>
+</PreferenceScreen>

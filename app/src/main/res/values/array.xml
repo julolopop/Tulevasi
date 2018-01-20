@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zonas">
+    <item>Zona1</item>
+    <item>Zona2</item>
+</string-array>
+    <string-array name="Categorias">
+        <item>Categoria1</item>
+        <item>Categoria2</item>
+        <item>Categoria3</item>
+        <item>Categoria4</item>
+    </string-array>
+</resources>

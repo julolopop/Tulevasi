@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tulevasi</string>
+    <string name="Logo">logo tulevasi</string>
+    <string name="bd">database</string>
+    <string name="usuario">User</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="price">Price</string>
+    <string name="Zone">Zone</string>
+    <string name="cbd">Configurate database</string>
+    <string name="czona">Configurate zone</string>
+    <string name="addcat">add category</string>
+    <string name="addproc">add Product</string>
+    <string name="Price">Price</string>
+    <string name="cat">category</string>
+    <string name="priceUnd">price und</string>
+    <string name="about">about</string>
+    <string name="guapo">A beatifull Program</string>
+
+
+    <string name="ezona">Zone</string>
+    <string name="pas">Password</string>
+    <string name="user">user</string>
+    <string name="cuenta">Save</string>
+    <string name="basededatos">IP BD</string>
+    <string name="agregar">Insert</string>
+    <string name="zone">zone</string>
+    <string name="nombre">Name</string>
+    <string name="precio">Price</string>
+    <string name="cantidad">quantity</string>
+    <string name="precioTotal"> Total price</string>
+    <string name="meliminar">Do you want delete it?</string>
+    <string name="teliminar">Delete</string>
+</resources>
