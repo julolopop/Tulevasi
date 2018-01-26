@@ -107,7 +107,7 @@ public class MesasDao extends SQLiteOpenHelper {
         }
 
 
-        db.close();
+        //db.close();
     }
 
 }
